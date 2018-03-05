@@ -172,7 +172,6 @@ toddTurtle.forward(30)
 #          - CLICK on  Commit and Push.
 #
 #   You can COMMIT-and-PUSH as often as you like.  DO IT FREQUENTLY.
-#
 ###############################################################################
 
 # -----------------------------------------------------------------------------
